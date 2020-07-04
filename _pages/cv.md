@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Tech in Energy Science, IIT Bombay
-* M.Tech in ENergy Science, IIT Bombay, 2022 (expected) 
+* M.Tech in Energy Science, IIT Bombay, 2022 (expected) 
 
 Work experience
 ======
